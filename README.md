@@ -1,7 +1,7 @@
 
 # MySql-DB-Design-Task
 
-It has Guvi-Zen class Roadmap session: Day-33 and Database : Day-1 Task. In this task, I worked on various Mysql queries which helped me to understand how the relational database works.
+It has Guvi-Zen class Roadmap session: Day-34 and Database : MySql : Day-2 Tasks. In this task, I learn to design a DB Design in MySql with it's queries.
 
 ## Lessons Learned
 
