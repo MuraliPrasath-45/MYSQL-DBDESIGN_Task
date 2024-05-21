@@ -17,7 +17,3 @@ It has Guvi-Zen class Roadmap session: Day-34 and Database : MySql : Day-2 Tasks
 ## Screenshots
 
 ![App Screenshot](./Images/demo.png)
-
-## Feedback
-
-If you have any feedback, please reach out to me at vijaymayhul@gmail.com
